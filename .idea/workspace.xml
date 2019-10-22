@@ -120,6 +120,7 @@
       <workItem from="1571745425028" duration="888000" />
       <workItem from="1571746323839" duration="875000" />
       <workItem from="1571747207399" duration="198000" />
+      <workItem from="1571747469579" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="冲突">
       <created>1571745628908</created>
@@ -153,12 +154,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1961000" />
+    <option name="totallyTimeSpent" value="2095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1994716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
